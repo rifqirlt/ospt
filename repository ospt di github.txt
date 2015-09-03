@@ -1,0 +1,3 @@
+ssh://xst@192.168.2.30/home/git/python-ospt.git
+
+passwd: xirka@30
